@@ -1,0 +1,3 @@
+	background-attachment: fixed; 
+    // Esse é o truque no css
+    /* Faz o efeito Parallax - Imagem parece sobrepor a outra imagem*/
